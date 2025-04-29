@@ -32,7 +32,7 @@ pipeline {
                 steps {
                     bat '''
                         call .\\venv\\Scripts\\activate
-                        "C:\\Users\\mjmnj\\AppData\\Local\\Programs\\Python\\Python313\\python.exe" Login.py
+                        "C:\\Users\\mjmnj\\AppData\\Local\\Programs\\Python\\Python313\\python.exe" C:\\Users\\mjmnj\\OneDrive\\Documents\\SEPP\\Exam2\\Login.py
                     '''
                 }
             }
